@@ -10,10 +10,12 @@
 
 ### Here are some highlights of what I'm working on:
 
-# 📈 Expense Tracker App (DiBiLi)
-**Tech Stack:** Python, Tkinter, JSON <br>
-<br> **Description:** A simple GUI app for tracking daily expenses and income. Features include adding, editing, deleting transactions, and real-time balance updates. Perfect for budgeting on the go! <br>
-<br> **Status:** In under Development 🚧 but already published the 1.0.0 version
+### 📈 Simple Expense Tracker (DiBiLi)
+- **Tech Stack**: Python, Tkinter, JSON
+- **Description**:
+  > A user-friendly GUI application for tracking daily expenses and income. Features include adding, editing, and deleting transactions, with real-time balance updates and low-balance alerts. Perfect for personal budgeting!
+- **Status**: Under Development 🚧 but already published the 1.0.0 version <br>
+- [Here's the Repository](https://github.com/Lenmiuuu/Simple-Expense-Tracker)
 
 
 # 🌐 Socials & Connect
