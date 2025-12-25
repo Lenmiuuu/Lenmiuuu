@@ -17,6 +17,13 @@
 - **Status**: Under Development 🚧 but already published the 1.0.0 version <br>
 - [Here's the Repository](https://github.com/Lenmiuuu/Simple-Expense-Tracker)
 
+## 🎒 Simple Personal Projects
+
+<p align="left">
+ <a href="https://github.com/Lenmiuuu/Simple-Expense-Tracker" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lenmiuuu&repo=Simple-Expense-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Lenmiuuu/Flipping_cards" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lenmiuuu&repo=Flipping_cards&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Lenmiuuu/Simple-Game" target="_blank"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Lenmiuuu&repo=Simple-Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"><a>
+
 
 # 🌐 Socials & Connect
 <div align="center"> <a href="https://instagram.com/min.katarzynaaa" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://github.com/Lenmiuuu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
