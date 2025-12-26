@@ -6,7 +6,6 @@
 - 🌱 Learning: Diving deep into Python to level up my coding skills. 🐍
 - 💬 Ask Me About: Coffee ☕, Cats 🐱, and Art 🎨 – or anything creative and fun!
 - ⚡ Fun Fact: I code to manage my life – because who needs spreadsheets when you have scripts? 😄
-- 🚀 Featured Projects
 
 ### Here are some highlights of what I'm working on:
 
