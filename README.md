@@ -2,7 +2,7 @@
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Passionate+Developer+%26+Creative+Mind;Building+the+Future,+One+Line+at+a+Time" alt="Typing SVG" /> </div>
 
 # 🌟 About Me
-- 🔭 Currently Working On: 3 exciting projects focused on Expense Management – turning chaos into clarity! 💰📊
+- 🔭 Currently Working On: 2 SIMPLE projects focused on Expense Management – turning chaos into clarity! 💰📊
 - 🌱 Learning: Diving deep into Python to level up my coding skills. 🐍
 - 💬 Ask Me About: Coffee ☕, Cats 🐱, and Art 🎨 – or anything creative and fun!
 - ⚡ Fun Fact: I code to manage my life – because who needs spreadsheets when you have scripts? 😄
